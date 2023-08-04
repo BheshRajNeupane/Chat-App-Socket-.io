@@ -1,6 +1,6 @@
-hat app: Active users can text each other, and the list of active users is displayed in the chat application built
+Chat app: Active users can text each other, and the list of active users is displayed in the chat application built
 with Nodejs (Socket.io)
 
 
-c:\Users\HP\Desktop\TOur project img\user enter.jpg
 
+![alt text](https://github.com/BheshRajNeupane/Chat-App-Socket-.ioe/master/msg.jpg?raw=true)
